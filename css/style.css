@@ -1,5 +1,7 @@
 /* Here we write our CSS */
-
+.nav-link {
+    color:white!important;
+}
 
 /* Hero section */
 .hero {
