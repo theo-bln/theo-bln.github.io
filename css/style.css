@@ -36,3 +36,8 @@
 .hero-title {
     font-size: 4rem;
 }
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
