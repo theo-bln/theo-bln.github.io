@@ -67,10 +67,10 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-github:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-github:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-school:hover {
     color: #800000;
 }
-.fab {
+.fab,.fas {
     color: #ffffff;
 }
 /* footer styling */
