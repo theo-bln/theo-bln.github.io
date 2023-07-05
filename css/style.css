@@ -52,6 +52,7 @@
     font-size: 36px;
     text-align: center;
     width: 100%;
+    color:#000000;
 }
 .card-title {
     text-align: center;
@@ -71,10 +72,21 @@
     color: #800000;
 }
 .fab,.fas {
-    color: #ffffff;
+    color:#000;
 }
 /* footer styling */
 #footer {
     background-color: #000000;
     text-align: center;
+}
+
+.white  {
+    color:#ffffff;
+}
+
+.btn-success { 
+    background-color:#800000 !important;
+}
+.turbineLogo {
+    width: 50vw;
 }
