@@ -38,7 +38,7 @@
 }
 
 /* about section image css */
-.imageAboutPage {
+.theoPage {
     width: 100%;
 }
 
@@ -68,10 +68,10 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-github:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-school:hover {
+.fa-github:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-computer-classic:hover, .fa-school:hover {
     color: #800000;
 }
-.fab,.fas {
+.fab,.fas,.far {
     color:#000;
 }
 /* footer styling */
