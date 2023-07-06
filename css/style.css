@@ -100,3 +100,15 @@
     height: 15vw;
     object-fit: cover;
 }
+
+.portfolioContent:hover {
+    border: 1px solid #800000;
+}
+
+.portfolioContent.card {
+    cursor: pointer;
+  }
+
+  .portfolioContent .card-title:hover {
+    color: #ff6600;
+}
