@@ -90,3 +90,7 @@
 .turbineLogo {
     width: 50vw;
 }
+
+.active {
+    font-weight: 800!important;
+}
