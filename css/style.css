@@ -89,7 +89,7 @@
     background-color:#800000 !important;
 }
 .turbineLogo {
-    width: 50vw;
+    width: 30vw;
 }
 
 .active {
@@ -102,12 +102,12 @@
     object-fit: cover;
 }
 
-.portfolioContent:hover {
+.turbineContent:hover {
     border: 1px solid #800000;
     color: #800000;
 }
 
-.portfolioContent.card {
+.turbineContent.card {
     cursor: pointer;
   }
 
