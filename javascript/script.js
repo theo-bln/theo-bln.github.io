@@ -4,10 +4,11 @@ const header = document.querySelector('.navbar');
 
 window.onscroll = function() {
     var top = window.scrollY;
-    if(top >=800) {
+    if(top >=870) {
         header.classList.add('bg-dark');
     }
     else {
         header.classList.remove('bg-dark');
     }
 }
+
